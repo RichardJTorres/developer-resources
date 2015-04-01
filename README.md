@@ -30,4 +30,5 @@ A place where I keep resources that have helped me progress my skill in software
 * [Thoughtbot's Playbook - Thoughtbot's guide to programming in style](http://playbook.thoughtbot.com/)
 * [Thoughtbot's Guides - Various guides from Thoughtbot](https://github.com/thoughtbot/guides) 
 
-
+##Computer Science
+* [edX CS50 course - Intro to basic computer science and programming](tests/functional_tests/retailer/socal_data_tests.py)
