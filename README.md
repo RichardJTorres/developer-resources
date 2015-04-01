@@ -26,7 +26,7 @@ A place where I keep resources that have helped me progress my skill in software
 * [Codecademy - Great way to quickly get up to speed in a new langauge](http://codecademy.com)
 * [Learn to code the hard way - A collection of coding tutorials focusing on  repetition of fundamentals](http://learncodethehardway.org/)
 
-#Development Workflow and Misc best practice guides
+##Workflow and best practice guides
 * [Thoughtbot's Playbook - Thoughtbot's guide to programming in style](http://playbook.thoughtbot.com/)
 * [Thoughtbot's Guides - Various guides from Thoughtbot](https://github.com/thoughtbot/guides) 
 
