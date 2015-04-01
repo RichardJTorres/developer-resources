@@ -15,8 +15,19 @@ A place where I keep resources that have helped me progress my skill in software
 * [WTF, HTML and CSS? - Reasons HTML and CSS might make you say wat](http://wtfhtmlcss.com/)
 * [Code Guide by @mdo, designer of twitter bootstrap](http://codeguide.co/)
 
+##Python & Flask
+* [Pep 8 - The ultimate python styleguide](https://www.python.org/dev/peps/pep-0008/)
+* [Explore Flask - A book about best practices and patterns in flask](https://exploreflask.com/index.html)
+* [Overholt - A sample app demonstrating patterns for large flask applications](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+* [Flask Mega Tutorial - A very basic but helpful flask tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ##Misc Development/Full Stack Resources
 * [Bento.io - A guided tour through curated, free coding tutorials](http://bento.io)
 * [Codecademy - Great way to quickly get up to speed in a new langauge](http://codecademy.com)
 * [Learn to code the hard way - A collection of coding tutorials focusing on  repetition of fundamentals](http://learncodethehardway.org/)
+
+#Development Workflow and Misc best practice guides
+* [Thoughtbot's Playbook - Thoughtbot's guide to programming in style](http://playbook.thoughtbot.com/)
+* [Thoughtbot's Guides - Various guides from Thoughtbot](https://github.com/thoughtbot/guides) 
+
+
