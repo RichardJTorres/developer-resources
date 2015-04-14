@@ -32,3 +32,7 @@ A place where I keep resources that have helped me progress my skill in software
 
 ##Computer Science
 * [edX CS50 course - Intro to basic computer science and programming](tests/functional_tests/retailer/socal_data_tests.py)
+
+##Testing
+* [The Three Rules of TDD by Robert (Uncle Bob) Martin](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [TDD Examples in Rust by Carol Nichols](http://carol-nichols.com/2015/03/28/tdd-example-in-rust/)
